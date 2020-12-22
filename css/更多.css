@@ -1,0 +1,38 @@
+/*更多*/
+.h_grid1{
+    margin-top: 20px;
+}
+.h_desc{
+    float:left;
+    width: 64.333%;
+    margin-right: 4.333%;
+}
+.h_img{
+    float:left;
+    width:28.333%;
+}
+.h_img img{
+    padding: 5px;
+    background: #999999;
+}
+.h_grid h2{
+    text-shadow: 0 1px 0 #161616;
+    font-family: 'Julius Sans One', 华文行楷;
+    font-size:1.8em;
+    color:#FFD955;
+    paddinh_descg-bottom:20px;
+}
+.h_desc h4{
+    line-height:1.5em;
+    text-shadow: 0 1px 0 #161616;
+    font-family: 'Julius Sans One', 华文行楷;
+    font-size: 1.9em;
+    color: #E4E4E4;
+    padding-bottom: 20px;
+}
+.h_grid p{
+    line-height: 1.8em;
+    color: #c0c0c0;
+    font-family: 楷书;
+    font-size:0.9em;
+}
